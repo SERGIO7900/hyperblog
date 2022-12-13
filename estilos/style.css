@@ -30,6 +30,7 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+<<<<<<< HEAD
 }
 
 #container
@@ -56,5 +57,13 @@ body
     background: #777;
     color: white;
     text-align: center;
+=======
+    color: #333;
+}
+
+
+footer{
+    background: rgb(98, 94, 94);
+>>>>>>> footer
     padding: 0.5em;
 }
