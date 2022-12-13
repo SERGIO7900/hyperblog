@@ -41,20 +41,8 @@ body
     margin: 0 auto;
 }
 
-#container h1
-{
-    font-size: 20px;
-}
-#post
-{
-    background: white;
-    padding: 1em;
-}
-
-#footer
-{
-    background: #777;
-    color: white;
-    text-align: center;
+footer{
+    background: rgb(186, 183, 183);
     padding: 0.5em;
+    border: 1px solid ;
 }
